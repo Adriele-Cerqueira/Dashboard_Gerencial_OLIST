@@ -1,5 +1,9 @@
 # Dashboard de Vendas Olist - Base
 
+<p align="left">
+    <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/MENU.png" width="600">
+  </p>
+
 ## Resumo Executivo
 
 Este projeto em Power BI foi desenvolvido com base no dataset público de e-commerce da Olist, com foco na análise de vendas, desempenho comercial e comportamento operacional dos vendedores. Além da construção analítica tradicional, o projeto implementa uma solução personalizada de controle de acesso com Login, Senha e RLS dinâmica para múltiplos usuários utilizando o mesmo e-mail corporativo. O dashboard fornece uma visão executiva orientada à tomada de decisão, permitindo acompanhar faturamento, performance comercial, cancelamentos e evolução das vendas ao longo do tempo.
@@ -112,17 +116,33 @@ Com isso, cada gerente consegue visualizar exclusivamente os vendedores sob sua 
 
 A análise consolidada mostrou crescimento de aproximadamente 21% em relação ao ano anterior, com faturamento superior a R$ 864 milhões e baixa taxa de cancelamento. São Paulo concentrou o maior volume de vendas, enquanto categorias como Beleza & Saúde lideraram o faturamento.
 
+<p align="left">
+    <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/Geral.png" width="600">
+  </p>
+
 ### Vendas
 
 Os pagamentos via cartão de crédito representaram a maior parte do faturamento da operação. O estado de São Paulo apresentou maior concentração de pedidos e faturamento, enquanto regiões específicas demonstraram tickets médios mais elevados, indicando potencial de segmentação comercial.
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/Vendas.png" width="600">
+  </p>
 
 ### Equipe
 
 A análise de performance dos vendedores revelou diferenças significativas entre faturamento, ticket médio e atingimento de metas. Alguns vendedores apresentaram alta receita com baixa eficiência de metas, enquanto outros superaram os objetivos definidos, indicando oportunidades de revisão estratégica de performance.
 
+<p align="left">
+    <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/Equipe.png" width="600">
+  </p>
+
 ### Produtos
 
 As categorias Beleza & Saúde, Relógios e Cama/Mesa/Banho lideraram as vendas, enquanto categorias com baixo faturamento demonstraram oportunidades para campanhas promocionais ou revisão de portfólio. O percentual de pedidos entregues acima de 97% também evidencia eficiência operacional da operação logística.
+
+<p align="left">
+    <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/Produtos.png" width="600">
+  </p>
 
 ---
 
