@@ -57,22 +57,17 @@ Fonte oficial:
 - DAX
 - Linguagem M
 
-### Ferramentas de BI
+### Ferramentas de BI e Design
 - Power BI
-- Figma
+- Figma(prototipação de layouts e definição de interface/UI para experiência do usuário)
 
 ### Modelagem e Analytics
 - Modelagem Dimensional
+- Modelagem Estrela (Star Schema
 - Data Visualization
 - Storytelling com Dados
 - Business Analytics
 - KPI Design
-
-### Banco de Dados
-- Modelagem Relacional
-
-### Versionamento
-- GitHub
 
 ---
 
