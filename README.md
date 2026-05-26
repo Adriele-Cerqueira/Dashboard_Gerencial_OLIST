@@ -4,6 +4,8 @@
     <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/MENU.png" width="600">
   </p>
 
+👉 [Abrir no Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZGViYTRjZmMtYjNhNy00NWRkLTk3MDctODA3ZTE3NzAxZWUwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
 ## Resumo Executivo
 
 Este projeto em Power BI foi desenvolvido com base no dataset público de e-commerce da Olist, com foco na análise de vendas, desempenho comercial e comportamento operacional dos vendedores. Além da construção analítica tradicional, o projeto implementa uma solução personalizada de controle de acesso com Login, Senha e RLS dinâmica para múltiplos usuários utilizando o mesmo e-mail corporativo. O dashboard fornece uma visão executiva orientada à tomada de decisão, permitindo acompanhar faturamento, performance comercial, cancelamentos e evolução das vendas ao longo do tempo.
