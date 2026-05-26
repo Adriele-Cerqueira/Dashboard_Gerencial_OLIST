@@ -158,3 +158,7 @@ Substituir arquivos estáticos por atualização automatizada via banco SQL ou A
 ### 3. Expansão da Camada de Segurança
 
 Implementar autenticação integrada com Active Directory e regras avançadas de governança de acesso.
+
+---
+
+Obs.: Este projeto foi desenvolvido em parceria com meu colega Lorenzo. Aproveite para acompanhar o trabalho dele no GitHub: https://github.com/LoRodrig/Dashboard_Gerencial_Olist
