@@ -33,21 +33,15 @@ Fonte oficial:
 
 ## Metodologia
 
-- Importação e tratamento dos dados utilizando Power Query (Linguagem M)
-- Modelagem dimensional no Power BI
-- Criação de relacionamentos entre tabelas fato e dimensão
-- Construção de medidas DAX para indicadores de negócio
-- Desenvolvimento de métricas financeiras e operacionais
-- Implementação de comparativos entre Ano Atual e Ano Anterior
-- Construção de indicadores de Ticket Médio e Taxa de Cancelamento
-- Criação de rankings de vendedores e categorias
-- Desenvolvimento de visualizações analíticas e executivas
-- Estruturação de dashboards por área temática
-- Construção de navegação entre páginas e experiência visual no Figma
-- Implementação de sistema personalizado de Login e Senha
-- Desenvolvimento de lógica DAX para validação de acesso
-- Criação de RLS dinâmica não convencional baseada em usuário e senha
-- Restrição de visualização por gerente e equipe de vendedores associados
+-Tratamento e transformação de dados com Power Query (M)
+-Modelagem dimensional e relacionamentos no Power BI
+-Desenvolvimento de métricas e indicadores com DAX
+-Criação de análises financeiras, operacionais e comparativas anuais
+-Construção de KPIs como Ticket Médio e Taxa de Cancelamento
+-Desenvolvimento de rankings e dashboards interativos
+-Estruturação da navegação e experiência visual no Figma
+-Implementação de autenticação personalizada com Login e Senha
+-Aplicação de RLS dinâmica para controle de acesso por perfil e equipe
 
 ---
 
