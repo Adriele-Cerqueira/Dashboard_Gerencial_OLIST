@@ -33,15 +33,15 @@ Fonte oficial:
 
 ## Metodologia
 
--Tratamento e transformação de dados com Power Query (M)
--Modelagem dimensional e relacionamentos no Power BI
--Desenvolvimento de métricas e indicadores com DAX
--Criação de análises financeiras, operacionais e comparativas anuais
--Construção de KPIs como Ticket Médio e Taxa de Cancelamento
--Desenvolvimento de rankings e dashboards interativos
--Estruturação da navegação e experiência visual no Figma
--Implementação de autenticação personalizada com Login e Senha
--Aplicação de RLS dinâmica para controle de acesso por perfil e equipe
+- Tratamento e transformação de dados com Power Query (M)
+- Modelagem dimensional e relacionamentos no Power BI
+- Desenvolvimento de métricas e indicadores com DAX
+- Criação de análises financeiras, operacionais e comparativas anuais
+- Construção de KPIs como Ticket Médio e Taxa de Cancelamento
+- Desenvolvimento de rankings e dashboards interativos
+- Estruturação da navegação e experiência visual no Figma
+- Implementação de autenticação personalizada com Login e Senha
+- Aplicação de RLS dinâmica para controle de acesso por perfil e equipe
 
 ---
 
