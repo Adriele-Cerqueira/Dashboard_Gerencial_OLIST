@@ -4,7 +4,9 @@
     <img src="https://raw.githubusercontent.com/Adriele-Cerqueira/Dashboard_Gerencial_OLIST/main/MENU.png" width="600">
   </p>
 
-👉 [Abrir no Power Bi](https://app.powerbi.com/view?r=eyJrIjoiZGViYTRjZmMtYjNhNy00NWRkLTk3MDctODA3ZTE3NzAxZWUwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+👉 [Visualizar Online](https://app.powerbi.com/view?r=eyJrIjoiZGViYTRjZmMtYjNhNy00NWRkLTk3MDctODA3ZTE3NzAxZWUwIiwidCI6IjY1OWNlMmI4LTA3MTQtNDE5OC04YzM4LWRjOWI2MGFhYmI1NyJ9)
+
+👉 [Baixar Pbix](https://drive.google.com/drive/folders/1X0Bj-UooQZh5Y-OK1yNH7U6HwNUts2WE?usp=sharing)
 
 ## Resumo Executivo
 
